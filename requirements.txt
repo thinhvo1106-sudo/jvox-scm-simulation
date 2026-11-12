@@ -1,0 +1,5 @@
+# Versions below are the ones the v4.1 results were produced and checked with (Python 3.13).
+# Other versions were not tested.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2

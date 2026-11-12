@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite the working paper."
+title: "J.Vox-SCM simulation, model version 4.1"
+authors:
+  - family-names: Vo
+    given-names: Quoc Thinh
+type: software
+version: "4.1"
